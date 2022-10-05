@@ -61,7 +61,6 @@ public class Circle
     {
         return radius;
     }
-
     /**
      * Returns the x coordinate of this circle.
      *
